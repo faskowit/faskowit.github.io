@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Hello! 
 
-You can use the [editor on GitHub](https://github.com/faskowit/faskowit.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a first-year neurosceince and psycholoy graduate student at [Indiana University](https://www.indiana.edu/); member of the [Computational Cognitive Neuroscience Lab](http://www.indiana.edu/~cortex/) (aka [SpornsLab](https://twitter.com/spornslab)). I think brains are super cool, and I enjoy studying these silly sponges from a variety of perspectives. My research is a stew of brains, networks, mri, eeg (I'm learning!), preprocessing, postprocessing, and models. Additionally, I am very fond of coffee. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I studied neuro and cog science at the University of Southern California (2014), and helped out in the [Emotion and Cognition Lab](http://www.usc.edu/projects/matherlab/people.html). Upon graduation, I make the trek across Los Angeles to the Marina del Rey, where I worked as a research assistant at the [Imaging Genetics Center](http://igc.ini.usc.edu/). Here I assisted on a wide range of mri projects, and picked up sage guidance and advice. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/faskowit/faskowit.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Links to stuff)
+[Google Scholar](https://scholar.google.com/citations?user=GE4rM3QAAAAJ&hl=en)
+[Twitter](https://twitter.com/joshfasky)
+[LinkedIn](https://www.linkedin.com/in/joshuafaskowitz)
