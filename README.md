@@ -10,12 +10,23 @@ I studied neuro- and cog- science at the [University of Southern California](htt
 
 I hail from Orange County, CA. It's a nice place with a very enjoyable shoreline. I'm an admirer of [modern architecture](http://www.getty.edu/visit/center/architecture.html) and [vectorfunk](http://www.mwmgraphics.com/vectorfunk.html). Additionally, I am very fond of coffee, spy novels, [prog-rock](https://en.wikipedia.org/wiki/Selling_England_by_the_Pound), trivial [sports statistics](https://fivethirtyeight.com/sports/), grillin' burgers, [Tottenham Hotspur](https://www.reddit.com/r/coys/), actual statistics, [buying books](http://www.openculture.com/2014/07/tsundoku-should-enter-the-english-language.html), pub trivia, [atlas obscura](http://www.atlasobscura.com/), and floral/sour [hipster beer](http://blog.mikkeller.dk/).
 
-## Links to stuff
+### Links to academic stuff
+
 [Google Scholar](https://scholar.google.com/citations?user=GE4rM3QAAAAJ&hl=en)
+
+[Publons](https://publons.com/researcher/1642616/joshua-faskowitz/)
+
+[Figshare](https://figshare.com/authors/josh_faskowitz/4974431)
+
+### Links to sort of academic stuff
 
 [Twitter](https://twitter.com/joshfasky)
 
 [LinkedIn](https://www.linkedin.com/in/joshuafaskowitz)
 
-An interview I gave for the [LA Times](http://articles.latimes.com/1998/mar/21/local/me-31178) (1998) :)
+### Other
+
+An interview I gave for the [LA Times](http://articles.latimes.com/1998/mar/21/local/me-31178) (1998) : )
+
+Apparently, I'm on a wall in [Leavy Library](https://libraries.usc.edu/locations/leavey-library/leavey-library-wall-scholars/national-science-foundation-fellowship)!
 
