@@ -1,6 +1,6 @@
 # Josh Faskowitz
 
-*grad student studying brains and networks and networks of the brain; consumer of bioRxiv and fine coffees; bash enthusiast steadfastly using gedit (nobody's perfect)*
+*grad student studying brains and networks and networks of the brain; consumer of bioRxiv and fine coffees; bash enthusiast steadfastly using gedit ("nobody's perfect")*
 
 ## Hello! 
 
