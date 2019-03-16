@@ -30,3 +30,4 @@ An interview I gave for the [LA Times](http://articles.latimes.com/1998/mar/21/l
 
 Apparently, I'm on a wall in [Leavy Library](https://libraries.usc.edu/locations/leavey-library/leavey-library-wall-scholars/national-science-foundation-fellowship)
 
+[Some of the art](https://www.flickr.com/photos/45120681@N04/) that I did back in high school
