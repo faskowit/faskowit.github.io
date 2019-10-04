@@ -28,6 +28,6 @@ I hail from Orange County, CA. It's a nice place with a very enjoyable shoreline
 
 An interview I gave for the [LA Times](http://articles.latimes.com/1998/mar/21/local/me-31178) (1998) : )
 
-Apparently, I'm on a wall in [Leavy Library](https://libraries.usc.edu/locations/leavey-library/leavey-library-wall-scholars/national-science-foundation-fellowship)
+Apparently, I'm on a wall in [Leavy Library](https://libraries.usc.edu/wallofscholars?award=2851&name=&year=All)
 
 [Some of the art](https://www.flickr.com/photos/45120681@N04/) that I did back in high school
