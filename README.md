@@ -16,7 +16,7 @@ I hail from Orange County, CA. It's a nice place with a very enjoyable shoreline
 
 ### Links to academic stuff
 
-[Curriculum Vitae](./host/faskowitz_cv_jan22.pdf)
+[Curriculum Vitae](./host/faskowitz_cv_july22.pdf)
 
 [Google Scholar](https://scholar.google.com/citations?user=GE4rM3QAAAAJ&hl=en)
 
