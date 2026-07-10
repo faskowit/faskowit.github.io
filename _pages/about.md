@@ -35,26 +35,20 @@ I studied neuro- and cog- science (and minored in marketing...go figure) at the 
 
 I hail from Orange County, CA. It's a nice place with a very enjoyable shoreline. I'm an admirer of [modern architecture](http://www.getty.edu/visit/center/architecture.html), [vectorfunk](http://www.mwmgraphics.com/vectorfunk.html), music videos (esp. from the [homeslices](https://www.instagram.com/psychofilms/) back in LA), and Google Earth. Additionally, I am fond of [coffee](https://deansbeans.com/), cheese, spy novels, [prog-rock](https://en.wikipedia.org/wiki/Selling_England_by_the_Pound), trivial [sports statistics](https://fivethirtyeight.com/sports/), watchin' sports, grillin' burgers, [Tottenham Hotspur](https://www.reddit.com/r/coys/), [buying books](http://www.openculture.com/2014/07/tsundoku-should-enter-the-english-language.html), pub trivia, Insta filters, [atlas obscura](http://www.atlasobscura.com/), and sour [beer](http://blog.mikkeller.dk/). I'm an especially avid disc golf and pickleball player.
 
-### Links to academic stuff
+### Academic links
 
-[Curriculum Vitae](./host/faskowitz25_cv.pdf)
+- [Curriculum Vitae](/cv/): the full version with positions, papers, talks, and teaching.
+- [Google Scholar](https://scholar.google.com/citations?user=GE4rM3QAAAAJ&hl=en): publications, citation counts, and the usual scholarly bookkeeping.
+- [Publons](https://publons.com/researcher/1642616/joshua-faskowitz/): peer-review activity and publication-related metadata.
+- [Figshare](https://figshare.com/authors/josh_faskowitz/4974431): shared datasets, figures, and other research outputs.
 
-[Google Scholar](https://scholar.google.com/citations?user=GE4rM3QAAAAJ&hl=en)
+### Professional and semi-professional internet
 
-[Publons](https://publons.com/researcher/1642616/joshua-faskowitz/)
+- [Twitter](https://twitter.com/joshfasky): science, links, and occasional non-science detours.
+- [LinkedIn](https://www.linkedin.com/in/joshuafaskowitz): the formal career summary version of me.
 
-[Figshare](https://figshare.com/authors/josh_faskowitz/4974431)
+### Other corners of the internet
 
-### Links to sort of academic stuff
-
-[Twitter](https://twitter.com/joshfasky)
-
-[LinkedIn](https://www.linkedin.com/in/joshuafaskowitz)
-
-### Other fun stuff
-
-An interview I gave for the [LA Times](http://articles.latimes.com/1998/mar/21/local/me-31178) (1998) : )
-
-Apparently, I'm on a wall in [Leavy Library](https://libraries.usc.edu/wallofscholars?award=2851&name=&year=All)
-
-[Some of the art](https://www.flickr.com/photos/45120681@N04/) that I did back in high school
+- [LA Times interview](http://articles.latimes.com/1998/mar/21/local/me-31178): a very old but still amusing appearance from 1998.
+- [Leavy Library wall of scholars](https://libraries.usc.edu/wallofscholars?award=2851&name=&year=All): apparently I made it onto a wall.
+- [High-school art](https://www.flickr.com/photos/45120681@N04/): some older visual work from well before the brain-network era.

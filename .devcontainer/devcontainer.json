@@ -10,17 +10,27 @@
   // Features to add to the dev container. More info: https://containers.dev/features.
   "features": {
     "ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {
-      "packages": "build-essential,imagemagick,inotify-tools,jupyter-nbconvert,procps,ruby-full,zlib1g-dev"
-    },
-    "ghcr.io/devcontainers-extra/features/prettier:1.0.2": {}
+      // Install Node from Debian packages instead of the nvm-based feature.
+      // This avoids nodejs.org TLS issues that can break devcontainer builds.
+      "packages": "build-essential,imagemagick,inotify-tools,jupyter-nbconvert,nodejs,npm,procps,ruby-full,zlib1g-dev"
+    }
   },
 
-  // Optionally: run jekyll serve automatically on container entering using the Docker entrypoint
-  "postAttachCommand": "./bin/entry_point.sh",
+  // Keep a terminal-friendly Codex shim available, then start Jekyll on attach.
+  "postAttachCommand": "./.devcontainer/post-attach.sh",
+
+  "remoteEnv": {
+    "PATH": "${containerEnv:PATH}:/home/vscode/.local/bin"
+  },
 
   "customizations": {
     "vscode": {
-      "extensions": ["esbenp.prettier-vscode", "sissel.shopify-liquid", "yzhang.markdown-all-in-one"],
+      "extensions": [
+        "openai.chatgpt",
+        "esbenp.prettier-vscode",
+        "sissel.shopify-liquid",
+        "yzhang.markdown-all-in-one"
+      ],
       "settings": {
         // use prettier code formatter as default formatter
         "editor.defaultFormatter": "esbenp.prettier-vscode",
