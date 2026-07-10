@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - faskowit
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - faskowit/multiAtlasTT
+  - faskowit/brain-networks-across-the-web
+  - faskowit/view_a_cifti

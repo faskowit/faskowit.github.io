@@ -1,34 +1,24 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"sporns":
+  - firstname: ["Olaf", "O." ]
+    url: https://scholar.google.com/citations?user=gzPWwdIAAAAJ&hl=en
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"betzel":
+  - firstname: ["Richard", "Richard F" , "R." , "Rick" ]
+    url: https://scholar.google.com/citations?user=3j9gqsEAAAAJ&hl=en&oi=sra
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"bandettini":
+  - firstname: [ "Peter" , "P." , "P. A.," , "Peter A" ]
+    url: https://scholar.google.com/citations?user=X9OdRnYAAAAJ&hl=en
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"gonzalez-castillo":
+  - firstname: [ "Javier" , "J." ]
+    url: https://scholar.google.com/citations?user=CGQ3Lw4AAAAJ&hl=en
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"seguin":
+  - firstname: [ "Caio" , "C" ]
+    url: https://scholar.google.com/citations?user=tcej_3sAAAAJ&hl=en
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"hilger": 
+  - firstname: [ "Kirsten" , "K" ]
+    url: https://scholar.google.com/citations?user=kOF7hdoAAAAJ&hl=en
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
