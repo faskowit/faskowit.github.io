@@ -2,9 +2,17 @@
   - firstname: ["Olaf", "O." ]
     url: https://scholar.google.com/citations?user=gzPWwdIAAAAJ&hl=en
 
+"jahanshad":
+  - firstname: ["Neda", "N." ]
+    url: https://scholar.google.com/citations?user=y3ypj3kAAAAJ&hl=en
+
 "betzel":
   - firstname: ["Richard", "Richard F" , "R." , "Rick" ]
     url: https://scholar.google.com/citations?user=3j9gqsEAAAAJ&hl=en&oi=sra
+
+"thompson":
+  - firstname: ["Paul", "Paul M", "P.", "P. M." ]
+    url: https://scholar.google.com/citations?user=qCVy9hgAAAAJ&hl=en
 
 "bandettini":
   - firstname: [ "Peter" , "P." , "P. A.," , "Peter A" ]
@@ -14,11 +22,38 @@
   - firstname: [ "Javier" , "J." ]
     url: https://scholar.google.com/citations?user=CGQ3Lw4AAAAJ&hl=en
 
+"moyer":
+  - firstname: ["Daniel", "Daniel A", "D.", "D. A." ]
+    url: https://scholar.google.com/citations?user=sKmoxSMAAAAJ&hl=en&oi=ao
+
 "seguin":
   - firstname: [ "Caio" , "C" ]
     url: https://scholar.google.com/citations?user=tcej_3sAAAAJ&hl=en
 
+"puxeddu":
+  - firstname: ["Maria Grazia", "M. G.", "Maria G." ]
+    url: https://scholar.google.com/citations?user=uHvZ9l8AAAAJ&hl=en&oi=ao
+
+"jo":
+  - firstname: ["Youngheun", "Y." ]
+    url: https://scholar.google.com/citations?user=58l6FPgAAAAJ&hl=en&oi=ao
+
+"pope":
+  - firstname: ["Maria", "M." ]
+    url: https://scholar.google.com/citations?user=2O0cTMYAAAAJ&hl=en&oi=ao
+
+"zamani esfahlani":
+  - firstname: ["Farnaz", "F.", "Farnaz Zamani" ]
+    url: https://scholar.google.com/citations?user=6WAOiN0AAAAJ&hl=en&oi=ao
+
+"thiele":
+  - firstname: ["Jonas", "Jonas A", "J.", "J. A." ]
+    url: https://scholar.google.com/citations?user=nWCfO0gAAAAJ&hl=en&oi=ao
+
+"varley":
+  - firstname: ["Thomas", "Thomas F", "T.", "T. F." ]
+    url: https://scholar.google.com/citations?user=YhEYq-0AAAAJ&hl=en
+
 "hilger": 
   - firstname: [ "Kirsten" , "K" ]
     url: https://scholar.google.com/citations?user=kOF7hdoAAAAJ&hl=en
-

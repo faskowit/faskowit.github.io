@@ -225,63 +225,66 @@ cv:
       - bullet: Organization for Human Brain Mapping
       - bullet: Society for Neuroscience
 
-    First-authored Publications:
-      - title: Mapping high-amplitude edge time series events across space and time
-        authors:
-          - Joshua Faskowitz
-          - Peter Bandettini
-          - Javier Gonzalez-Castillo
-        publisher: Imaging Neuroscience
-        releaseDate: 2026
-        summary: Accepted article on spatial and temporal organization of high-amplitude edge time-series events.
+    Publications:
+      - title: Please check out my Google Scholar profile
 
-      - title: Connectome topology of mammalian brains and its relationship to taxonomy and phylogeny
-        authors:
-          - Joshua Faskowitz
-          - Maria Giulia Puxeddu
-          - Martijn P. van den Heuvel
-          - Bratislav Misic
-          - Yossi Yovel
-          - Yaniv Assaf
-          - Richard F. Betzel
-          - Olaf Sporns
-        publisher: Frontiers in Neuroscience
-        releaseDate: 2022
-        summary: Comparative connectomics study linking mammalian brain-network topology to taxonomy and phylogeny.
+    # First-authored Publications:
+    #   - title: Mapping high-amplitude edge time series events across space and time
+    #     authors:
+    #       - Joshua Faskowitz
+    #       - Peter Bandettini
+    #       - Javier Gonzalez-Castillo
+    #     publisher: Imaging Neuroscience
+    #     releaseDate: 2026
+    #     summary: Accepted article on spatial and temporal organization of high-amplitude edge time-series events.
 
-      - title: "Edges in brain networks: contributions to models of structure and function"
-        authors:
-          - Joshua Faskowitz
-          - Richard F. Betzel
-          - Olaf Sporns
-        publisher: Network Neuroscience
-        releaseDate: 2021
-        summary: Overview of edge-centric approaches for modeling brain structure and function.
+    #   - title: Connectome topology of mammalian brains and its relationship to taxonomy and phylogeny
+    #     authors:
+    #       - Joshua Faskowitz
+    #       - Maria Giulia Puxeddu
+    #       - Martijn P. van den Heuvel
+    #       - Bratislav Misic
+    #       - Yossi Yovel
+    #       - Yaniv Assaf
+    #       - Richard F. Betzel
+    #       - Olaf Sporns
+    #     publisher: Frontiers in Neuroscience
+    #     releaseDate: 2022
+    #     summary: Comparative connectomics study linking mammalian brain-network topology to taxonomy and phylogeny.
 
-      - title: Edge-centric functional network representations of human cerebral cortex reveal overlapping system-level architecture
-        authors:
-          - Joshua Faskowitz
-          - Fadi Zamani Esfahlani
-          - Yun Joo
-          - Olaf Sporns
-          - Richard F. Betzel
-        publisher: Nature Neuroscience
-        releaseDate: 2020
-        summary: Introduced an edge-centric representation of functional brain networks that reveals overlapping system-level architecture.
+    #   - title: "Edges in brain networks: contributions to models of structure and function"
+    #     authors:
+    #       - Joshua Faskowitz
+    #       - Richard F. Betzel
+    #       - Olaf Sporns
+    #     publisher: Network Neuroscience
+    #     releaseDate: 2021
+    #     summary: Overview of edge-centric approaches for modeling brain structure and function.
 
-      - title: Mapping the community structure of the rat cerebral cortex with weighted stochastic block modeling
-        authors:
-          - Joshua Faskowitz
-          - Olaf Sporns
-        publisher: Brain Structure and Function
-        releaseDate: 2020
-        summary: Applied weighted stochastic block modeling to mesoscale community structure in the rat cerebral cortex.
+    #   - title: Edge-centric functional network representations of human cerebral cortex reveal overlapping system-level architecture
+    #     authors:
+    #       - Joshua Faskowitz
+    #       - Fadi Zamani Esfahlani
+    #       - Yun Joo
+    #       - Olaf Sporns
+    #       - Richard F. Betzel
+    #     publisher: Nature Neuroscience
+    #     releaseDate: 2020
+    #     summary: Introduced an edge-centric representation of functional brain networks that reveals overlapping system-level architecture.
 
-      - title: Weighted stochastic block models of the human connectome across the life span
-        authors:
-          - Joshua Faskowitz
-          - Xi-Nian Zuo
-          - Olaf Sporns
-        publisher: Scientific Reports
-        releaseDate: 2018
-        summary: Characterized how human connectome community structure changes across the life span.
+    #   - title: Mapping the community structure of the rat cerebral cortex with weighted stochastic block modeling
+    #     authors:
+    #       - Joshua Faskowitz
+    #       - Olaf Sporns
+    #     publisher: Brain Structure and Function
+    #     releaseDate: 2020
+    #     summary: Applied weighted stochastic block modeling to mesoscale community structure in the rat cerebral cortex.
+
+    #   - title: Weighted stochastic block models of the human connectome across the life span
+    #     authors:
+    #       - Joshua Faskowitz
+    #       - Xi-Nian Zuo
+    #       - Olaf Sporns
+    #     publisher: Scientific Reports
+    #     releaseDate: 2018
+    #     summary: Characterized how human connectome community structure changes across the life span.

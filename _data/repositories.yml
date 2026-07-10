@@ -4,6 +4,9 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - faskowit/multiAtlasTT
   - faskowit/brain-networks-across-the-web
-  - faskowit/view_a_cifti
+  - faskowit/multiAtlasTT
+  - faskowit/app-fmri-2-mat
+  - faskowit/app-run-fmriprep
+  - faskowit/Faskowitz2018wsbmLifeSpan
+  - faskowit/parc_plotter
