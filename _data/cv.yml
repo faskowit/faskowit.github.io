@@ -20,6 +20,7 @@ cv:
         location: Bloomington, IN
         area: Neuroscience and Psychology
         degree: PhD
+        start_date: 2016
         end_date: 2021
         highlights:
           - "Advisor: Dr. Olaf Sporns"
@@ -29,6 +30,7 @@ cv:
         location: Los Angeles, CA
         area: Neuroscience and Cognitive Science
         degree: BA
+        start_date: 2010
         end_date: 2014
 
     Experience:
