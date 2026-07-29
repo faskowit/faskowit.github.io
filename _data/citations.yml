@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-07-29'
 papers:
   GE4rM3QAAAAJ:-FonjvnnhkoC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: Multi-policy models of interregional communication in the human connectome
     year: '2022'
   GE4rM3QAAAAJ:2KloaMYe4IUC:
-    citations: 27
+    citations: 26
     title: Hierarchical organization of spontaneous co-fluctuations in densely sampled individuals using fMRI
     year: '2023'
   GE4rM3QAAAAJ:2P1L_qKh6hAC:
@@ -26,15 +26,15 @@ papers:
     title: Simultaneous Matrix Diagonalization for Structural Brain Networks Classification
     year: '2017'
   GE4rM3QAAAAJ:4JMBOYKVnBMC:
-    citations: 614
+    citations: 615
     title: Subcortical volumetric abnormalities in bipolar disorder
     year: '2016'
   GE4rM3QAAAAJ:4MWp96NkSFoC:
-    citations: 67
+    citations: 69
     title: 'brainlife. io: A decentralized and open-source cloud platform to support neuroscience research'
     year: '2024'
   GE4rM3QAAAAJ:4fKUyHm3Qg0C:
-    citations: 96
+    citations: 97
     title: The reliability and heritability of cortical folds and their genetic correlations across hemispheres
     year: '2020'
   GE4rM3QAAAAJ:4vMrXwiscB8C:
@@ -122,15 +122,15 @@ papers:
     title: Multi-site meta-analysis of morphometry
     year: '2019'
   GE4rM3QAAAAJ:KxtntwgDAa4C:
-    citations: 130
+    citations: 129
     title: Weighted stochastic block models of the human connectome across the life span
     year: '2018'
   GE4rM3QAAAAJ:L7CI7m0gUJcC:
-    citations: 68
+    citations: 67
     title: 'Living on the edge: network neuroscience beyond nodes'
     year: '2023'
   GE4rM3QAAAAJ:LI9QrySNdTsC:
-    citations: 3
+    citations: 2
     title: Variation in high-amplitude events across the human lifespan
     year: '2026'
   GE4rM3QAAAAJ:LO7wyVUgiFcC:
@@ -142,7 +142,7 @@ papers:
     title: Mapping age effects along fiber tracts in young adults
     year: '2017'
   GE4rM3QAAAAJ:M7yex6snE4oC:
-    citations: 34
+    citations: 35
     title: A multi-modal, asymmetric, weighted, and signed description of anatomical connectivity
     year: '2024'
   GE4rM3QAAAAJ:MLfJN-KU85MC:
@@ -178,11 +178,11 @@ papers:
     title: Using geometry of the set of symmetric positive semidefinite matrices to classify structural brain networks
     year: '2016'
   GE4rM3QAAAAJ:PR6Y55bgFSsC:
-    citations: 51
-    title: High-amplitude network co-fluctuations linked to variation in hormone concentrations over the menstrual cycle
-    year: '2023'
+    citations: 48
+    title: High-amplitude network co-fluctuations linked to variation in hormone concentrations over menstrual cycle
+    year: '2021'
   GE4rM3QAAAAJ:RHpTSmoSYBkC:
-    citations: 134
+    citations: 135
     title: Heritability and reliability of automatically segmented human hippocampal formation subregions
     year: '2016'
   GE4rM3QAAAAJ:RYcK_YlVTxYC:
@@ -194,7 +194,7 @@ papers:
     title: Structural-Functional Brain Network Coupling During Task Performance Reveals Intelligence-Relevant Communication Strategies
     year: '2024'
   GE4rM3QAAAAJ:TIZ-Mc8IlK0C:
-    citations: 193
+    citations: 195
     title: Neuroanatomical changes observed over the course of a human pregnancy
     year: '2024'
   GE4rM3QAAAAJ:UxriW0iASnsC:
@@ -206,9 +206,9 @@ papers:
     title: Modularity maximization as a flexible and generic framework for brain network exploratory analysis
     year: '2021'
   GE4rM3QAAAAJ:VLnqNzywnoUC:
-    citations: 32
+    citations: 31
     title: Synchronous high-amplitude co-fluctuations of functional brain networks during movie-watching
-    year: '2023'
+    year: '2022'
   GE4rM3QAAAAJ:WA5NYHcadZ8C:
     citations: 8
     title: An edge-centric model for harmonizing multi-relational network datasets
@@ -238,15 +238,15 @@ papers:
     title: Effects of diffusion signal modeling and segmentation approaches on subthalamic nucleus parcellation
     year: '2022'
   GE4rM3QAAAAJ:_Qo2XoVZTnwC:
-    citations: 19
+    citations: 20
     title: Blockmodels for connectome analysis
     year: '2015'
   GE4rM3QAAAAJ:_Re3VWB3Y0AC:
-    citations: 44
+    citations: 45
     title: Multi-modal and multi-subject modular organization of human brain networks
     year: '2022'
   GE4rM3QAAAAJ:_Ybze24A_UAC:
-    citations: 41
+    citations: 42
     title: Cortico-subcortical interactions in overlapping communities of edge functional connectivity
     year: '2022'
   GE4rM3QAAAAJ:anf4URPfarAC:
@@ -258,7 +258,7 @@ papers:
     title: Relation of connectome topology to brain volume across 103 mammalian species
     year: '2024'
   GE4rM3QAAAAJ:bFI3QPDXJZMC:
-    citations: 1085
+    citations: 1088
     title: Cortical brain abnormalities in 4474 individuals with schizophrenia and 5098 control subjects via the enhancing neuro imaging genetics through meta analysis (ENIGMA) consortium
     year: '2018'
   GE4rM3QAAAAJ:bnK-pcrLprsC:
@@ -282,7 +282,7 @@ papers:
     title: An analysis-ready and quality controlled resource for pediatric brain white-matter research
     year: '2022'
   GE4rM3QAAAAJ:evX43VCCuoAC:
-    citations: 201
+    citations: 203
     title: Local structure-function relationships in human brain networks across the lifespan
     year: '2022'
   GE4rM3QAAAAJ:fEOibwPWpKIC:
@@ -298,7 +298,7 @@ papers:
     title: Mapping the community structure of the rat cerebral cortex with weighted stochastic block modeling
     year: '2020'
   GE4rM3QAAAAJ:hMod-77fHWUC:
-    citations: 78
+    citations: 79
     title: Partitioning heritability analysis reveals a shared genetic basis of brain anatomy and schizophrenia
     year: '2016'
   GE4rM3QAAAAJ:hMsQuOkrut0C:
@@ -314,7 +314,7 @@ papers:
     title: Comparison of template registration methods for multi-site meta-analysis of brain morphometry
     year: '2016'
   GE4rM3QAAAAJ:ipzZ9siozwsC:
-    citations: 18
+    citations: 19
     title: Co-evolving dynamics and topology in a coupled oscillator model of resting brain function
     year: '2023'
   GE4rM3QAAAAJ:isC4tDSrTZIC:
@@ -326,7 +326,7 @@ papers:
     title: The heritability of the functional connectome is robust to common nonlinear registration methods
     year: '2016'
   GE4rM3QAAAAJ:j8SEvjWlNXcC:
-    citations: 37
+    citations: 36
     title: Uncovering individual differences in fine-scale dynamics of functional connectivity
     year: '2023'
   GE4rM3QAAAAJ:kRWSkSYxWN8C:
@@ -394,7 +394,7 @@ papers:
     title: Embedded sparse representation of fMRI data via group-wise dictionary optimization
     year: '2016'
   GE4rM3QAAAAJ:rO6llkc54NcC:
-    citations: 826
+    citations: 828
     title: 'Widespread white matter microstructural differences in schizophrenia across 4322 individuals: results from the ENIGMA Schizophrenia DTI Working Group'
     year: '2018'
   GE4rM3QAAAAJ:sNmaIFBj_lkC:
@@ -406,13 +406,13 @@ papers:
     title: High-amplitude cofluctuations in cortical activity drive functional connectivity
     year: '2020'
   GE4rM3QAAAAJ:tYavs44e6CUC:
-    citations: 15
+    citations: 16
     title: 'Choosing explanation over performance: Insights from machine learning-based prediction of human intelligence from brain connectivity'
     year: '2024'
   GE4rM3QAAAAJ:tzM49s52ZIMC:
-    citations: 79
+    citations: 80
     title: Individualized event structure drives individual differences in whole-brain functional connectivity
-    year: '2022'
+    year: '2021'
   GE4rM3QAAAAJ:u-x6o8ySG0sC:
     citations: 6
     title: Genetic analysis of structural brain connectivity using DICCCOL models of diffusion MRI in 522 twins
@@ -422,7 +422,7 @@ papers:
     title: Heritability of brain network topology in 853 twins and siblings
     year: '2015'
   GE4rM3QAAAAJ:uJ-U7cs_P_0C:
-    citations: 142
+    citations: 145
     title: Multivariate information theory uncovers synergistic subsystems of the human cerebral cortex
     year: '2023'
   GE4rM3QAAAAJ:uWQEDVKXjbEC:
@@ -442,11 +442,11 @@ papers:
     title: P-107 Dimensionality reduction in stroke patients neuroimaging data
     year: '2023'
   GE4rM3QAAAAJ:vbGhcppDl1QC:
-    citations: 112
+    citations: 114
     title: Partial entropy decomposition reveals higher-order information structures in human brain activity
     year: '2023'
   GE4rM3QAAAAJ:wbdj-CoPYUoC:
-    citations: 128
+    citations: 127
     title: Dynamic expression of brain functional systems disclosed by fine-scale analysis of edge time series
     year: '2021'
   GE4rM3QAAAAJ:xtoqd-5pKcoC:
