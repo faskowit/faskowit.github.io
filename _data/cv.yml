@@ -227,8 +227,10 @@ cv:
       - bullet: Organization for Human Brain Mapping
       - bullet: Society for Neuroscience
 
-    Publications:
-      - title: Please check out my Google Scholar profile
+    Scholarly Contributions:
+      - label: Publications
+        details: 'For a list of articles, visit <a href="https://scholar.google.com/citations?user=GE4rM3QAAAAJ&amp;hl=en">Google Scholar</a> or the <a href="/publications/">Publications</a> page.'
+
 
     # First-authored Publications:
     #   - title: Mapping high-amplitude edge time series events across space and time
