@@ -1,0 +1,12 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require "json"
+require_relative "../_plugins/coauthorship_network"
+
+root = File.expand_path("..", __dir__)
+source = File.join(root, "_bibliography", "papers.bib")
+destination = File.join(root, "_data", "coauthorship_network.json")
+
+File.write(destination, JSON.pretty_generate(CoauthorshipNetwork.graph_from(source)) + "\n")
+puts "Wrote #{destination} from #{source}"

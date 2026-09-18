@@ -364,6 +364,15 @@ scholar:
   group_by: year
   group_order: descending
 
+# -----------------------------------------------------------------------------
+# Co-authorship network
+# -----------------------------------------------------------------------------
+
+coauthorship_network:
+  label_count: 15 # number of highest-publication authors labeled in the graph
+  display_names:
+    faskowitz|j: Joshua Faskowitz
+
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
 enable_publication_badges:

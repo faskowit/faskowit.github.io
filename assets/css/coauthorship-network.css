@@ -1,0 +1,71 @@
+.coauthor-controls {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin: 1.5rem 0 0.5rem;
+}
+.coauthor-controls input {
+  accent-color: var(--global-theme-color);
+}
+.coauthor-controls button {
+  background: var(--global-theme-color);
+  border: 0;
+  border-radius: 0.25rem;
+  color: var(--global-bg-color);
+  cursor: pointer;
+  padding: 0.35rem 0.7rem;
+}
+.coauthor-summary {
+  color: var(--global-text-color-light);
+}
+.coauthor-network {
+  background: color-mix(in srgb, var(--global-theme-color) 5%, var(--global-bg-color));
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.5rem;
+  min-height: 500px;
+  overflow: hidden;
+}
+.coauthor-network svg {
+  color: var(--global-text-color);
+  display: block;
+  height: auto;
+  width: 100%;
+}
+.coauthor-labels text {
+  fill: var(--global-text-color);
+  font-size: 0.75rem;
+  font-weight: 600;
+  paint-order: stroke;
+  pointer-events: none;
+  stroke: var(--global-bg-color);
+  stroke-width: 4px;
+  text-anchor: middle;
+}
+.coauthor-selected-label text {
+  fill: var(--global-theme-color);
+  font-size: 0.9rem;
+  font-weight: 700;
+  paint-order: stroke;
+  pointer-events: none;
+  stroke: var(--global-bg-color);
+  stroke-width: 5px;
+  text-anchor: middle;
+}
+.coauthor-details {
+  background: color-mix(in srgb, var(--global-theme-color) 5%, var(--global-bg-color));
+  border-left: 3px solid var(--global-theme-color);
+  margin-top: 1rem;
+  padding: 0.8rem 1rem;
+}
+.coauthor-details ul {
+  margin: 0.6rem 0 0;
+  max-height: 14rem;
+  overflow-y: auto;
+}
+.coauthor-credit {
+  color: var(--global-text-color-light);
+  font-size: 0.9rem;
+  margin-top: 1.5rem;
+  text-align: center;
+}
