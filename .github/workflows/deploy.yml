@@ -72,6 +72,22 @@ jobs:
         with:
           ruby-version: "3.3.5"
           bundler-cache: true
+      - name: Checkout authoritative CV data 📄
+        if: github.event_name != 'pull_request'
+        uses: actions/checkout@v4
+        with:
+          repository: faskowit/mycv_rendercv
+          ref: main
+          path: authoritative-cv
+          persist-credentials: false
+      - name: Sync CV and publications 🔄
+        if: github.event_name != 'pull_request'
+        run: |
+          cp authoritative-cv/Joshua_Faskowitz_CV.yaml _data/cv.yml
+          # bibtex-ruby (used by Jekyll Scholar) does not accept disabled
+          # entries written as percent-commented BibTeX blocks.
+          grep -v '^[[:space:]]*%' authoritative-cv/bibliography/pubs.bib > _bibliography/papers.bib
+          ruby bin/generate_coauthorship_data
       - name: Setup Python 🐍
         uses: actions/setup-python@v5
         with:

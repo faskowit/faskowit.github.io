@@ -3,7 +3,7 @@
     {
       "id": "faskowitz|j",
       "name": "Joshua I Faskowitz",
-      "publication_count": 101
+      "publication_count": 100
     },
     {
       "id": "sporns|o",
@@ -56,11 +56,6 @@
       "publication_count": 9
     },
     {
-      "id": "puxeddu|m",
-      "name": "Maria Grazia Puxeddu",
-      "publication_count": 9
-    },
-    {
       "id": "moyer|d",
       "name": "Daniel Moyer",
       "publication_count": 8
@@ -73,6 +68,11 @@
     {
       "id": "hilger|k",
       "name": "Kirsten Hilger",
+      "publication_count": 8
+    },
+    {
+      "id": "puxeddu|m",
+      "name": "Maria Grazia Puxeddu",
       "publication_count": 8
     },
     {
@@ -111,11 +111,6 @@
       "publication_count": 6
     },
     {
-      "id": "rashid|f",
-      "name": "Faisal Rashid",
-      "publication_count": 5
-    },
-    {
       "id": "cutts|s",
       "name": "Sarah A Cutts",
       "publication_count": 5
@@ -128,6 +123,11 @@
     {
       "id": "pizzagalli|f",
       "name": "Fabrizio Pizzagalli",
+      "publication_count": 4
+    },
+    {
+      "id": "rashid|f",
+      "name": "Faisal Rashid",
       "publication_count": 4
     },
     {
@@ -456,6 +456,11 @@
       "publication_count": 1
     },
     {
+      "id": "schubert|a",
+      "name": "AL Schubert",
+      "publication_count": 1
+    },
+    {
       "id": "chuderski|a",
       "name": "Adam Chuderski",
       "publication_count": 1
@@ -468,11 +473,6 @@
     {
       "id": "bramanti|a",
       "name": "Alessia Bramanti",
-      "publication_count": 1
-    },
-    {
-      "id": "lerner|a",
-      "name": "Alexander Lerner",
       "publication_count": 1
     },
     {
@@ -516,11 +516,6 @@
       "publication_count": 1
     },
     {
-      "id": "schubert|a",
-      "name": "Anna-Lena Schubert",
-      "publication_count": 1
-    },
-    {
       "id": "knodt|a",
       "name": "Annchen Knodt",
       "publication_count": 1
@@ -553,11 +548,6 @@
     {
       "id": "mussabayeva|a",
       "name": "Ayagoz Mussabayeva",
-      "publication_count": 1
-    },
-    {
-      "id": "bigjahan|b",
-      "name": "Bavrina Bigjahan",
       "publication_count": 1
     },
     {
@@ -616,11 +606,6 @@
       "publication_count": 1
     },
     {
-      "id": "liu|c",
-      "name": "Chia-Shang Jason Liu",
-      "publication_count": 1
-    },
-    {
       "id": "whelan|c",
       "name": "Christopher D Whelan",
       "publication_count": 1
@@ -658,11 +643,6 @@
     {
       "id": "belyaeva|d",
       "name": "Daria Belyaeva",
-      "publication_count": 1
-    },
-    {
-      "id": "hwang|d",
-      "name": "Darryl Hwang",
       "publication_count": 1
     },
     {
@@ -966,13 +946,13 @@
       "publication_count": 1
     },
     {
-      "id": "ananyeva|m",
-      "name": "Marina Ananyeva",
+      "id": "graziapuxeddu|m",
+      "name": "Maria Grazia Puxeddu",
       "publication_count": 1
     },
     {
-      "id": "shiroishi|m",
-      "name": "Mark Shiroishi",
+      "id": "ananyeva|m",
+      "name": "Marina Ananyeva",
       "publication_count": 1
     },
     {
@@ -1038,11 +1018,6 @@
     {
       "id": "andreassen|o",
       "name": "OA Andreassen",
-      "publication_count": 1
-    },
-    {
-      "id": "boyko|o",
-      "name": "Orest Boyko",
       "publication_count": 1
     },
     {
@@ -1136,11 +1111,6 @@
       "publication_count": 1
     },
     {
-      "id": "cen|s",
-      "name": "Steven Cen",
-      "publication_count": 1
-    },
-    {
       "id": "richie|s",
       "name": "Stuart Richie",
       "publication_count": 1
@@ -1178,11 +1148,6 @@
     {
       "id": "parakkattu|v",
       "name": "Vibin Parakkattu",
-      "publication_count": 1
-    },
-    {
-      "id": "gupta|v",
-      "name": "Vikash Gupta",
       "publication_count": 1
     },
     {
@@ -1373,9 +1338,9 @@
           "year": "2024"
         },
         {
-          "key": "pope2024time",
+          "key": "pope2025time",
           "title": "Time-varying synergy/redundancy dominance in the human cerebral cortex",
-          "year": ""
+          "year": "2025"
         },
         {
           "key": "thiele2024choosing",
@@ -2656,58 +2621,6 @@
     },
     {
       "source": "faskowitz|j",
-      "target": "puxeddu|m",
-      "weight": 9,
-      "papers": [
-        {
-          "key": "puxeddu2020modular",
-          "title": "The modular organization of brain cortical connectivity across the human lifespan",
-          "year": "2020"
-        },
-        {
-          "key": "esfahlani2021modularity",
-          "title": "Modularity maximization as a flexible and generic framework for brain network exploratory analysis",
-          "year": "2021"
-        },
-        {
-          "key": "puxeddu2022multi",
-          "title": "Multi-modal and multi-subject modular organization of human brain networks",
-          "year": "2022"
-        },
-        {
-          "key": "faskowitz2022connectome",
-          "title": "Connectome topology of mammalian brains and its relationship to taxonomy and phylogeny",
-          "year": "2022"
-        },
-        {
-          "key": "puxeddu2024relation",
-          "title": "Relation of connectome topology to brain volume across 103 mammalian species",
-          "year": "2024"
-        },
-        {
-          "key": "pope2024time",
-          "title": "Time-varying synergy/redundancy dominance in the human cerebral cortex",
-          "year": ""
-        },
-        {
-          "key": "puxeddu2025leveraging",
-          "title": "Leveraging multivariate information for community detection in functional brain networks",
-          "year": "2025"
-        },
-        {
-          "key": "betzel2026controlling",
-          "title": "Controlling the human connectome with spatially diffuse input signals",
-          "year": "2026"
-        },
-        {
-          "key": "seguin2025connectome",
-          "title": "Connectome architecture favours within-module diffusion and between-module routing",
-          "year": "2025"
-        }
-      ]
-    },
-    {
-      "source": "faskowitz|j",
       "target": "wright|m",
       "weight": 9,
       "papers": [
@@ -3140,6 +3053,53 @@
       ]
     },
     {
+      "source": "faskowitz|j",
+      "target": "puxeddu|m",
+      "weight": 8,
+      "papers": [
+        {
+          "key": "puxeddu2020modular",
+          "title": "The modular organization of brain cortical connectivity across the human lifespan",
+          "year": "2020"
+        },
+        {
+          "key": "esfahlani2021modularity",
+          "title": "Modularity maximization as a flexible and generic framework for brain network exploratory analysis",
+          "year": "2021"
+        },
+        {
+          "key": "puxeddu2022multi",
+          "title": "Multi-modal and multi-subject modular organization of human brain networks",
+          "year": "2022"
+        },
+        {
+          "key": "faskowitz2022connectome",
+          "title": "Connectome topology of mammalian brains and its relationship to taxonomy and phylogeny",
+          "year": "2022"
+        },
+        {
+          "key": "puxeddu2024relation",
+          "title": "Relation of connectome topology to brain volume across 103 mammalian species",
+          "year": "2024"
+        },
+        {
+          "key": "puxeddu2025leveraging",
+          "title": "Leveraging multivariate information for community detection in functional brain networks",
+          "year": "2025"
+        },
+        {
+          "key": "betzel2026controlling",
+          "title": "Controlling the human connectome with spatially diffuse input signals",
+          "year": "2026"
+        },
+        {
+          "key": "seguin2025connectome",
+          "title": "Connectome architecture favours within-module diffusion and between-module routing",
+          "year": "2025"
+        }
+      ]
+    },
+    {
       "source": "jahanshad|n",
       "target": "mcmahon|k",
       "weight": 8,
@@ -3442,9 +3402,9 @@
           "year": "2024"
         },
         {
-          "key": "pope2024time",
+          "key": "pope2025time",
           "title": "Time-varying synergy/redundancy dominance in the human cerebral cortex",
-          "year": ""
+          "year": "2025"
         },
         {
           "key": "puxeddu2025leveraging",
@@ -3534,48 +3494,6 @@
           "key": "moyer2016empirical",
           "title": "An Empirical Study of Continuous Connectivity Degree Sequence Equivalents",
           "year": "2016"
-        }
-      ]
-    },
-    {
-      "source": "puxeddu|m",
-      "target": "sporns|o",
-      "weight": 7,
-      "papers": [
-        {
-          "key": "puxeddu2020modular",
-          "title": "The modular organization of brain cortical connectivity across the human lifespan",
-          "year": "2020"
-        },
-        {
-          "key": "puxeddu2022multi",
-          "title": "Multi-modal and multi-subject modular organization of human brain networks",
-          "year": "2022"
-        },
-        {
-          "key": "faskowitz2022connectome",
-          "title": "Connectome topology of mammalian brains and its relationship to taxonomy and phylogeny",
-          "year": "2022"
-        },
-        {
-          "key": "puxeddu2024relation",
-          "title": "Relation of connectome topology to brain volume across 103 mammalian species",
-          "year": "2024"
-        },
-        {
-          "key": "pope2024time",
-          "title": "Time-varying synergy/redundancy dominance in the human cerebral cortex",
-          "year": ""
-        },
-        {
-          "key": "puxeddu2025leveraging",
-          "title": "Leveraging multivariate information for community detection in functional brain networks",
-          "year": "2025"
-        },
-        {
-          "key": "seguin2025connectome",
-          "title": "Connectome architecture favours within-module diffusion and between-module routing",
-          "year": "2025"
         }
       ]
     },
@@ -3906,9 +3824,9 @@
           "year": "2023"
         },
         {
-          "key": "pope2024time",
+          "key": "pope2025time",
           "title": "Time-varying synergy/redundancy dominance in the human cerebral cortex",
-          "year": ""
+          "year": "2025"
         },
         {
           "key": "puxeddu2025leveraging",
@@ -4017,9 +3935,9 @@
           "year": "2023"
         },
         {
-          "key": "pope2024time",
+          "key": "pope2025time",
           "title": "Time-varying synergy/redundancy dominance in the human cerebral cortex",
-          "year": ""
+          "year": "2025"
         },
         {
           "key": "puxeddu2025leveraging",
@@ -4062,6 +3980,43 @@
           "key": "hafzalla2017comparison",
           "title": "A comparison of network definitions for detecting sex differences in brain connectivity using Support Vector Machines",
           "year": "2017"
+        }
+      ]
+    },
+    {
+      "source": "puxeddu|m",
+      "target": "sporns|o",
+      "weight": 6,
+      "papers": [
+        {
+          "key": "puxeddu2020modular",
+          "title": "The modular organization of brain cortical connectivity across the human lifespan",
+          "year": "2020"
+        },
+        {
+          "key": "puxeddu2022multi",
+          "title": "Multi-modal and multi-subject modular organization of human brain networks",
+          "year": "2022"
+        },
+        {
+          "key": "faskowitz2022connectome",
+          "title": "Connectome topology of mammalian brains and its relationship to taxonomy and phylogeny",
+          "year": "2022"
+        },
+        {
+          "key": "puxeddu2024relation",
+          "title": "Relation of connectome topology to brain volume across 103 mammalian species",
+          "year": "2024"
+        },
+        {
+          "key": "puxeddu2025leveraging",
+          "title": "Leveraging multivariate information for community detection in functional brain networks",
+          "year": "2025"
+        },
+        {
+          "key": "seguin2025connectome",
+          "title": "Connectome architecture favours within-module diffusion and between-module routing",
+          "year": "2025"
         }
       ]
     },
@@ -4128,9 +4083,9 @@
           "year": "2023"
         },
         {
-          "key": "pope2024time",
+          "key": "pope2025time",
           "title": "Time-varying synergy/redundancy dominance in the human cerebral cortex",
-          "year": ""
+          "year": "2025"
         },
         {
           "key": "puxeddu2025leveraging",
@@ -4268,38 +4223,6 @@
       ]
     },
     {
-      "source": "faskowitz|j",
-      "target": "rashid|f",
-      "weight": 5,
-      "papers": [
-        {
-          "key": "dennis2016multi",
-          "title": "Multi-modal registration improves group discrimination in pediatric traumatic brain injury",
-          "year": "2016"
-        },
-        {
-          "key": "dennis2017diverging",
-          "title": "Diverging volumetric trajectories following pediatric traumatic brain injury",
-          "year": "2017"
-        },
-        {
-          "key": "dennis2017mapping",
-          "title": "Mapping age effects along fiber tracts in young adults",
-          "year": "2017"
-        },
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        },
-        {
-          "key": "pizzagalli2018sulcal",
-          "title": "Sulcal-based morphometry in Parkinson’s disease: a study of reliability and disease effects",
-          "year": "2018"
-        }
-      ]
-    },
-    {
       "source": "jahanshad|n",
       "target": "prasad|g",
       "weight": 5,
@@ -4384,9 +4307,9 @@
           "year": "2023"
         },
         {
-          "key": "pope2024time",
+          "key": "pope2025time",
           "title": "Time-varying synergy/redundancy dominance in the human cerebral cortex",
-          "year": ""
+          "year": "2025"
         },
         {
           "key": "puxeddu2025leveraging",
@@ -4797,6 +4720,33 @@
           "key": "popp2026neural",
           "title": "The Neural Code of Neuroticism",
           "year": "2026"
+        }
+      ]
+    },
+    {
+      "source": "faskowitz|j",
+      "target": "rashid|f",
+      "weight": 4,
+      "papers": [
+        {
+          "key": "dennis2016multi",
+          "title": "Multi-modal registration improves group discrimination in pediatric traumatic brain injury",
+          "year": "2016"
+        },
+        {
+          "key": "dennis2017diverging",
+          "title": "Diverging volumetric trajectories following pediatric traumatic brain injury",
+          "year": "2017"
+        },
+        {
+          "key": "dennis2017mapping",
+          "title": "Mapping age effects along fiber tracts in young adults",
+          "year": "2017"
+        },
+        {
+          "key": "pizzagalli2018sulcal",
+          "title": "Sulcal-based morphometry in Parkinson’s disease: a study of reliability and disease effects",
+          "year": "2018"
         }
       ]
     },
@@ -7648,7 +7598,7 @@
         },
         {
           "key": "wehrheim2024reliability",
-          "title": "Reliability of variability and complexity measures for task and task-free BOLD fMRI",
+          "title": "Reliability of variability and complexity measures for task and task-free BOLD fMRI.",
           "year": "2024"
         }
       ]
@@ -8124,7 +8074,7 @@
         },
         {
           "key": "wehrheim2024reliability",
-          "title": "Reliability of variability and complexity measures for task and task-free BOLD fMRI",
+          "title": "Reliability of variability and complexity measures for task and task-free BOLD fMRI.",
           "year": "2024"
         }
       ]
@@ -8192,7 +8142,7 @@
         },
         {
           "key": "wehrheim2024reliability",
-          "title": "Reliability of variability and complexity measures for task and task-free BOLD fMRI",
+          "title": "Reliability of variability and complexity measures for task and task-free BOLD fMRI.",
           "year": "2024"
         }
       ]
@@ -9321,23 +9271,6 @@
     },
     {
       "source": "pope|m",
-      "target": "puxeddu|m",
-      "weight": 2,
-      "papers": [
-        {
-          "key": "pope2024time",
-          "title": "Time-varying synergy/redundancy dominance in the human cerebral cortex",
-          "year": ""
-        },
-        {
-          "key": "puxeddu2025leveraging",
-          "title": "Leveraging multivariate information for community detection in functional brain networks",
-          "year": "2025"
-        }
-      ]
-    },
-    {
-      "source": "pope|m",
       "target": "tanner|j",
       "weight": 2,
       "papers": [
@@ -9418,23 +9351,6 @@
           "key": "pritschet2024neuroanatomical",
           "title": "Neuroanatomical changes observed over the course of a human pregnancy",
           "year": "2024"
-        }
-      ]
-    },
-    {
-      "source": "puxeddu|m",
-      "target": "varley|t",
-      "weight": 2,
-      "papers": [
-        {
-          "key": "pope2024time",
-          "title": "Time-varying synergy/redundancy dominance in the human cerebral cortex",
-          "year": ""
-        },
-        {
-          "key": "puxeddu2025leveraging",
-          "title": "Leveraging multivariate information for community detection in functional brain networks",
-          "year": "2025"
         }
       ]
     },
@@ -12345,114 +12261,6 @@
       ]
     },
     {
-      "source": "bigjahan|b",
-      "target": "boyko|o",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "bigjahan|b",
-      "target": "cen|s",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "bigjahan|b",
-      "target": "faskowitz|j",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "bigjahan|b",
-      "target": "gupta|v",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "bigjahan|b",
-      "target": "hwang|d",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "bigjahan|b",
-      "target": "lerner|a",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "bigjahan|b",
-      "target": "liu|c",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "bigjahan|b",
-      "target": "rashid|f",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "bigjahan|b",
-      "target": "shiroishi|m",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
       "source": "biswal|b",
       "target": "cai|z",
       "weight": 1,
@@ -12701,102 +12509,6 @@
           "key": "pizzagalli2020reliability",
           "title": "The reliability and heritability of cortical folds and their genetic correlations across hemispheres",
           "year": "2020"
-        }
-      ]
-    },
-    {
-      "source": "boyko|o",
-      "target": "cen|s",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "boyko|o",
-      "target": "faskowitz|j",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "boyko|o",
-      "target": "gupta|v",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "boyko|o",
-      "target": "hwang|d",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "boyko|o",
-      "target": "lerner|a",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "boyko|o",
-      "target": "liu|c",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "boyko|o",
-      "target": "rashid|f",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "boyko|o",
-      "target": "shiroishi|m",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
         }
       ]
     },
@@ -13733,90 +13445,6 @@
           "key": "whelan2016heritability",
           "title": "Heritability and reliability of automatically segmented human hippocampal formation subregions",
           "year": "2016"
-        }
-      ]
-    },
-    {
-      "source": "cen|s",
-      "target": "faskowitz|j",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "cen|s",
-      "target": "gupta|v",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "cen|s",
-      "target": "hwang|d",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "cen|s",
-      "target": "lerner|a",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "cen|s",
-      "target": "liu|c",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "cen|s",
-      "target": "rashid|f",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "cen|s",
-      "target": "shiroishi|m",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
         }
       ]
     },
@@ -15898,6 +15526,18 @@
     },
     {
       "source": "faskowitz|j",
+      "target": "graziapuxeddu|m",
+      "weight": 1,
+      "papers": [
+        {
+          "key": "pope2025time",
+          "title": "Time-varying synergy/redundancy dominance in the human cerebral cortex",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "source": "faskowitz|j",
       "target": "grotzinger|h",
       "weight": 1,
       "papers": [
@@ -15905,18 +15545,6 @@
           "key": "pritschet2024neuroanatomical",
           "title": "Neuroanatomical changes observed over the course of a human pregnancy",
           "year": "2024"
-        }
-      ]
-    },
-    {
-      "source": "faskowitz|j",
-      "target": "gupta|v",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
         }
       ]
     },
@@ -16037,18 +15665,6 @@
           "key": "lee2016partitioning",
           "title": "Partitioning heritability analysis reveals a shared genetic basis of brain anatomy and schizophrenia",
           "year": "2016"
-        }
-      ]
-    },
-    {
-      "source": "faskowitz|j",
-      "target": "hwang|d",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
         }
       ]
     },
@@ -16270,18 +15886,6 @@
     },
     {
       "source": "faskowitz|j",
-      "target": "lerner|a",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "faskowitz|j",
       "target": "levakov|g",
       "weight": 1,
       "papers": [
@@ -16301,18 +15905,6 @@
           "key": "zhu2016embedded",
           "title": "Embedded sparse representation of fMRI data via group-wise dictionary optimization",
           "year": "2016"
-        }
-      ]
-    },
-    {
-      "source": "faskowitz|j",
-      "target": "liu|c",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
         }
       ]
     },
@@ -16695,20 +16287,8 @@
       "papers": [
         {
           "key": "wehrheim2024reliability",
-          "title": "Reliability of variability and complexity measures for task and task-free BOLD fMRI",
+          "title": "Reliability of variability and complexity measures for task and task-free BOLD fMRI.",
           "year": "2024"
-        }
-      ]
-    },
-    {
-      "source": "faskowitz|j",
-      "target": "shiroishi|m",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
         }
       ]
     },
@@ -17103,7 +16683,7 @@
       "papers": [
         {
           "key": "wehrheim2024reliability",
-          "title": "Reliability of variability and complexity measures for task and task-free BOLD fMRI",
+          "title": "Reliability of variability and complexity measures for task and task-free BOLD fMRI.",
           "year": "2024"
         }
       ]
@@ -17661,6 +17241,42 @@
       ]
     },
     {
+      "source": "graziapuxeddu|m",
+      "target": "pope|m",
+      "weight": 1,
+      "papers": [
+        {
+          "key": "pope2025time",
+          "title": "Time-varying synergy/redundancy dominance in the human cerebral cortex",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "source": "graziapuxeddu|m",
+      "target": "sporns|o",
+      "weight": 1,
+      "papers": [
+        {
+          "key": "pope2025time",
+          "title": "Time-varying synergy/redundancy dominance in the human cerebral cortex",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "source": "graziapuxeddu|m",
+      "target": "varley|t",
+      "weight": 1,
+      "papers": [
+        {
+          "key": "pope2025time",
+          "title": "Time-varying synergy/redundancy dominance in the human cerebral cortex",
+          "year": "2025"
+        }
+      ]
+    },
+    {
       "source": "greenwell|s",
       "target": "jacobs|e",
       "weight": 1,
@@ -17825,66 +17441,6 @@
           "key": "pritschet2024neuroanatomical",
           "title": "Neuroanatomical changes observed over the course of a human pregnancy",
           "year": "2024"
-        }
-      ]
-    },
-    {
-      "source": "gupta|v",
-      "target": "hwang|d",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "gupta|v",
-      "target": "lerner|a",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "gupta|v",
-      "target": "liu|c",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "gupta|v",
-      "target": "rashid|f",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "gupta|v",
-      "target": "shiroishi|m",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
         }
       ]
     },
@@ -19061,54 +18617,6 @@
           "key": "lee2016partitioning",
           "title": "Partitioning heritability analysis reveals a shared genetic basis of brain anatomy and schizophrenia",
           "year": "2016"
-        }
-      ]
-    },
-    {
-      "source": "hwang|d",
-      "target": "lerner|a",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "hwang|d",
-      "target": "liu|c",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "hwang|d",
-      "target": "rashid|f",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "hwang|d",
-      "target": "shiroishi|m",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
         }
       ]
     },
@@ -20409,42 +19917,6 @@
       ]
     },
     {
-      "source": "lerner|a",
-      "target": "liu|c",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "lerner|a",
-      "target": "rashid|f",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "lerner|a",
-      "target": "shiroishi|m",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
       "source": "levakov|g",
       "target": "sporns|o",
       "weight": 1,
@@ -20489,30 +19961,6 @@
           "key": "zhu2016embedded",
           "title": "Embedded sparse representation of fMRI data via group-wise dictionary optimization",
           "year": "2016"
-        }
-      ]
-    },
-    {
-      "source": "liu|c",
-      "target": "rashid|f",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "liu|c",
-      "target": "shiroishi|m",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
-          "year": "2018"
         }
       ]
     },
@@ -21730,6 +21178,18 @@
     },
     {
       "source": "pope|m",
+      "target": "puxeddu|m",
+      "weight": 1,
+      "papers": [
+        {
+          "key": "puxeddu2025leveraging",
+          "title": "Leveraging multivariate information for community detection in functional brain networks",
+          "year": "2025"
+        }
+      ]
+    },
+    {
+      "source": "pope|m",
       "target": "ragone|e",
       "weight": 1,
       "papers": [
@@ -21921,6 +21381,18 @@
       ]
     },
     {
+      "source": "puxeddu|m",
+      "target": "varley|t",
+      "weight": 1,
+      "papers": [
+        {
+          "key": "puxeddu2025leveraging",
+          "title": "Leveraging multivariate information for community detection in functional brain networks",
+          "year": "2025"
+        }
+      ]
+    },
+    {
       "source": "ragone|e",
       "target": "tanner|j",
       "weight": 1,
@@ -21976,18 +21448,6 @@
         {
           "key": "pizzagalli2018sulcal",
           "title": "Sulcal-based morphometry in Parkinson’s disease: a study of reliability and disease effects",
-          "year": "2018"
-        }
-      ]
-    },
-    {
-      "source": "rashid|f",
-      "target": "shiroishi|m",
-      "weight": 1,
-      "papers": [
-        {
-          "key": "shiroishi2018enigma",
-          "title": "The ENIGMA Cancer and Chemotherapy Working Group and Cancer-Related Cognitive Impairment (P6. 171)",
           "year": "2018"
         }
       ]
@@ -22239,7 +21699,7 @@
       "papers": [
         {
           "key": "wehrheim2024reliability",
-          "title": "Reliability of variability and complexity measures for task and task-free BOLD fMRI",
+          "title": "Reliability of variability and complexity measures for task and task-free BOLD fMRI.",
           "year": "2024"
         }
       ]
@@ -22737,5 +22197,5 @@
       ]
     }
   ],
-  "paper_count": 101
+  "paper_count": 100
 }
