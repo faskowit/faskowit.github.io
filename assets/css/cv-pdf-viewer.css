@@ -1,0 +1,21 @@
+.cv-pdf-viewer {
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.5rem;
+  height: min(85vh, 1100px);
+  min-height: 38rem;
+  overflow: hidden;
+}
+
+.cv-pdf-viewer iframe {
+  border: 0;
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+@media (max-width: 576px) {
+  .cv-pdf-viewer {
+    height: 75vh;
+    min-height: 30rem;
+  }
+}

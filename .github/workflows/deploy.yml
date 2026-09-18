@@ -98,6 +98,17 @@ jobs:
         with:
           node-version: "20"
           cache: "npm"
+      - name: Install Python dependencies 🐍
+        run: |
+          pip3 install --upgrade nbconvert
+          pip3 install -r requirements.txt
+      - name: Render authoritative CV PDF 📄
+        if: github.event_name != 'pull_request'
+        run: |
+          rendercv render _data/cv.yml
+          pdf_file=$(find _data/rendercv_output -maxdepth 1 -type f -name '*.pdf' -print -quit)
+          test -n "$pdf_file"
+          cp "$pdf_file" assets/pdf/Joshua_Faskowitz_CV.pdf
       - name: Install JS deps 📦
         run: npm ci
       - name: Update _config.yml ⚙️
@@ -110,7 +121,6 @@ jobs:
       - name: Install and Build 🔧
         run: |
           sudo apt-get update && sudo apt-get install -y imagemagick
-          pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
           bundle exec jekyll build
       - name: Purge unused CSS 🧹
