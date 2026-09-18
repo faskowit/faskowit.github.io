@@ -9,7 +9,7 @@ nav_order: 2.5
 
 <p>
   Each circle is an author in <a href="{{ '/publications/' | relative_url }}">my bibliography</a>;
-  a line means we have co-authored at least one paper. Circle size reflects publication count and
+  a line means we have co-authored at least one paper. Circle size reflects publication count (relative to my co-authorship network) and
   line width reflects the number of papers shared. Drag circles to explore, hover for details, and
   select a circle to focus on that collaboration neighborhood.
 </p>
