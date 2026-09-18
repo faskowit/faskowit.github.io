@@ -21,8 +21,8 @@ cv:
         location: "Bloomington, IN"
         summary: "Advisor: Dr. Olaf Sporns\nCommittee: Dr. Olaf Sporns, Dr. Aina Puce, Dr. Amanda Mejia, Dr. Richard Betzel"
         # highlights:
-          #- "Advisor: Dr. Olaf Sporns"
-          #- "Committee: Dr. Olaf Sporns, Dr. Aina Puce, Dr. Amanda Mejia, Dr. Richard Betzel"
+        #- "Advisor: Dr. Olaf Sporns"
+        #- "Committee: Dr. Olaf Sporns, Dr. Aina Puce, Dr. Amanda Mejia, Dr. Richard Betzel"
       - institution: "University of Southern California"
         area: "Neuroscience, Cognitive Science"
         degree: "B.A."
@@ -322,7 +322,7 @@ design:
 
   templates:
     footer: "#align(right)[NAME, PAGE_NUMBER/TOTAL_PAGES]"
-    top_note: "*LAST_UPDATED MONTH_NAME YEAR*"    
+    top_note: "*LAST_UPDATED MONTH_NAME YEAR*"
     single_date: YEAR
     date_range: START_DATE – END_DATE
     time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
@@ -333,7 +333,7 @@ design:
 
     # publication_entry:
     #     main_column: |-
-    #       **TITLE** 
+    #       **TITLE**
     #       #block(inset: (left: 0.5em))AUTHORS
     #       JOURNAL
 
@@ -351,7 +351,7 @@ design:
     allow_page_break: true
     space_between_regular_entries: 0.5em
     space_between_text_based_entries: 0.2em
-    show_time_spans_in: 
+    show_time_spans_in:
       - experience
   links:
     underline: false

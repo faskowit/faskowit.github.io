@@ -25,12 +25,7 @@
 
   "customizations": {
     "vscode": {
-      "extensions": [
-        "openai.chatgpt",
-        "esbenp.prettier-vscode",
-        "sissel.shopify-liquid",
-        "yzhang.markdown-all-in-one"
-      ],
+      "extensions": ["openai.chatgpt", "esbenp.prettier-vscode", "sissel.shopify-liquid", "yzhang.markdown-all-in-one"],
       "settings": {
         // use prettier code formatter as default formatter
         "editor.defaultFormatter": "esbenp.prettier-vscode",

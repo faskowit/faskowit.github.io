@@ -43,9 +43,7 @@
     }
     summary.textContent = `${nodes.length} authors and ${activeLinks.length} collaborations shown from ${data.paper_count} bibliography entries.`;
     const svg = d3.select(container).append("svg").attr("viewBox", `0 0 ${width} ${height}`).attr("aria-hidden", "true");
-    const labelNodes = [...nodes]
-      .sort((first, second) => second.publication_count - first.publication_count)
-      .slice(0, labelCount);
+    const labelNodes = [...nodes].sort((first, second) => second.publication_count - first.publication_count).slice(0, labelCount);
     const linksSelection = svg
       .append("g")
       .attr("stroke", "currentColor")
@@ -75,9 +73,7 @@
 
     const showDetails = (node) => {
       selectedId = node.id;
-      selectedLabel
-        .text(node.name)
-        .attr("display", labelNodes.some((labelNode) => labelNode.id === node.id) ? "none" : null);
+      selectedLabel.text(node.name).attr("display", labelNodes.some((labelNode) => labelNode.id === node.id) ? "none" : null);
       const related = activeLinks.filter((link) => link.source.id === node.id || link.target.id === node.id);
       const papers = related.flatMap((link) => link.papers).filter((paper, index, all) => all.findIndex((item) => item.key === paper.key) === index);
       details.replaceChildren();
@@ -123,14 +119,10 @@
           .attr("x2", (link) => link.target.x)
           .attr("y2", (link) => link.target.y);
         nodesSelection.attr("cx", (node) => node.x).attr("cy", (node) => node.y);
-        labelsSelection
-          .attr("x", (node) => node.x)
-          .attr("y", (node) => node.y - radius(node.publication_count) - 7);
+        labelsSelection.attr("x", (node) => node.x).attr("y", (node) => node.y - radius(node.publication_count) - 7);
         const selectedNode = nodes.find((node) => node.id === selectedId);
         if (selectedNode) {
-          selectedLabel
-            .attr("x", selectedNode.x)
-            .attr("y", selectedNode.y - radius(selectedNode.publication_count) - 9);
+          selectedLabel.attr("x", selectedNode.x).attr("y", selectedNode.y - radius(selectedNode.publication_count) - 9);
         }
       });
     nodesSelection.call(

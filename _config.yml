@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Josh
-middle_name: 
+middle_name:
 last_name: Faskowitz
 contact_note: >
   email me yo!
@@ -40,7 +40,7 @@ repo_trophies:
 # update these URLs. These are used in the repository templates.
 external_services:
   github_readme_stats_url: https://github-stats-extended.vercel.app
-  github_profile_trophy_url:  
+  github_profile_trophy_url:
 
 # -----------------------------------------------------------------------------
 # al-folio API (v1.x)
@@ -159,10 +159,10 @@ disqus_shortname: # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
 external_sources:
-  # - name: 
-  #   rss_url: 
-  #   categories: 
-  #   tags: 
+  # - name:
+  #   rss_url:
+  #   categories:
+  #   tags:
   # - name: Google Blog
   #   posts:
   #     - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
