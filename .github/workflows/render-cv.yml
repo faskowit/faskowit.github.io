@@ -1,20 +1,14 @@
-name: Render a CV
+# Disabled while deployment renders the authoritative upstream RenderCV source.
+# Retained for reference and possible future restoration.
+name: Render a CV (disabled)
 on:
-  push:
-    branches:
-      - main
-      - master
-    paths:
-      - "_data/cv.yml"
-      - "assets/rendercv/design.yaml"
-      - "assets/rendercv/locale.yaml"
-      - "assets/rendercv/settings.yaml"
   workflow_call:
   workflow_dispatch:
 permissions:
   contents: write
 jobs:
   rendercv:
+    if: ${{ false }}
     name: RenderCV
     runs-on: ubuntu-latest
     steps:
