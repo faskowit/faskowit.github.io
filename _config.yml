@@ -285,6 +285,8 @@ plugins:
   - al_math
   - al_comments
   - al_newsletter
+  - al_marimo
+  - al_email_protect
 
 # Sitemap settings
 defaults:
@@ -295,6 +297,8 @@ defaults:
 
 sass:
   style: compressed
+
+protect_email: false
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
