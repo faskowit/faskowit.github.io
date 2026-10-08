@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: blank # special al-folio value: display first_name and last_name in the navbar
 first_name: Josh
 middle_name:
 last_name: Faskowitz
 contact_note: >
-  email me yo!
+  Please feel free to contact me about research, collaboration, or faculty opportunities.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  a website yo
+  Joshua Faskowitz is a network neuroscientist studying dynamic brain organization, functional connectivity, and computational models of cognition.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -18,7 +18,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧠 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://faskowit.github.io # the base hostname & protocol for your site
-baseurl: / # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: false # set to false to disable the back to top button
@@ -216,6 +216,34 @@ kramdown:
 include: ["_pages"]
 exclude:
   - al-folio-upgrade-report.md
+  # Starter/demo assets retained for archived examples and repository docs, but
+  # omitted from the deployed site because no live page references them.
+  - assets/audio/
+  - assets/bibliography/
+  - assets/html/
+  - assets/img/1.jpg
+  - assets/img/2.jpg
+  - assets/img/3.jpg
+  - assets/img/4.jpg
+  - assets/img/5.jpg
+  - assets/img/6.jpg
+  - assets/img/7.jpg
+  - assets/img/8.jpg
+  - assets/img/9.jpg
+  - assets/img/10.jpg
+  - assets/img/11.jpg
+  - assets/img/12.jpg
+  - assets/img/prof_pic_color.png
+  - assets/img/publication_preview/
+  - assets/img/rhino.png
+  - assets/img/template_error.png
+  - assets/jupyter/
+  - assets/json/table_data.json
+  - assets/pdf/Joshua_Faskowitz_CV_0726.pdf
+  - assets/pdf/faskowitz_cv_062026.pdf
+  - assets/plotly/
+  - assets/rendercv/
+  - assets/video/
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
@@ -447,7 +475,8 @@ imagemagick:
     - 800
     - 1400
   input_directories:
-    - assets/img/
+    - assets/img/profile/
+    - assets/img/book_covers/
   input_formats:
     - ".jpg"
     - ".jpeg"

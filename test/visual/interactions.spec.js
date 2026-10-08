@@ -306,6 +306,46 @@ test("lightbox galleries open in-page modal instead of navigating away", async (
   await expect(overlay).not.toHaveClass(/is-open/);
 });
 
+test("co-authorship node selection labels neighbors and toggles off on second click", async ({ page }) => {
+  await preparePage(page, "light");
+  await page.goto("/al-folio/coauthors/", { waitUntil: "networkidle" });
+  await stabilizeVisuals(page);
+
+  const nodes = page.locator("#coauthorship-network circle");
+  await expect.poll(async () => nodes.count()).toBeGreaterThan(1);
+
+  const permanentLabels = page.locator(".coauthor-labels text");
+  const permanentLabelCount = await permanentLabels.count();
+  const candidateIndex = await page.locator("#coauthorship-network svg").evaluate((svg) => {
+    const permanentlyLabeledIds = new Set(Array.from(svg.querySelectorAll(".coauthor-labels text"), (label) => label.__data__.id));
+    const circles = Array.from(svg.querySelectorAll("circle"));
+    const links = Array.from(svg.querySelectorAll("line"), (line) => line.__data__);
+    return circles.findIndex((circle) => {
+      const id = circle.__data__.id;
+      return links.some((link) => {
+        const neighborId = link.source.id === id ? link.target.id : link.target.id === id ? link.source.id : null;
+        return neighborId && !permanentlyLabeledIds.has(neighborId);
+      });
+    });
+  });
+  expect(candidateIndex).toBeGreaterThanOrEqual(0);
+
+  const node = nodes.nth(candidateIndex);
+  const details = page.locator("#network-details");
+  await node.click();
+  await expect(details).not.toHaveText("Select an author to see shared papers.");
+  await expect(page.locator('#coauthorship-network line[stroke-opacity="0.75"]').first()).toBeAttached();
+  await expect.poll(async () => page.locator(".coauthor-neighbor-labels text").count()).toBeGreaterThan(0);
+
+  await node.click();
+  await expect(details).toHaveText("Select an author to see shared papers.");
+  await expect(page.locator('#coauthorship-network circle:not([opacity="1"])')).toHaveCount(0);
+  await expect(page.locator('#coauthorship-network line:not([stroke-opacity="0.18"])')).toHaveCount(0);
+  await expect(page.locator(".coauthor-selected-label text")).toHaveText("");
+  await expect(page.locator(".coauthor-neighbor-labels text")).toHaveCount(0);
+  await expect(permanentLabels).toHaveCount(permanentLabelCount);
+});
+
 test("core pages no longer emit jQuery-style runtime errors", async ({ page }) => {
   const failures = [];
   page.on("pageerror", (error) => failures.push(error.message));

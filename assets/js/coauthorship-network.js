@@ -69,12 +69,42 @@
       .data(labelNodes, (node) => node.id)
       .join("text")
       .text((node) => node.name);
+    const alwaysLabeledIds = new Set(labelNodes.map((node) => node.id));
+    const neighborLabelsGroup = svg.append("g").attr("class", "coauthor-neighbor-labels");
+    let neighborLabelsSelection = neighborLabelsGroup.selectAll("text");
     const selectedLabel = svg.append("g").attr("class", "coauthor-selected-label").append("text");
+
+    const clearSelection = () => {
+      selectedId = null;
+      selectedLabel.text("").attr("display", "none");
+      neighborLabelsSelection = neighborLabelsGroup
+        .selectAll("text")
+        .data([], (node) => node.id)
+        .join("text");
+      details.textContent = "Select an author to see shared papers.";
+      nodesSelection.attr("opacity", 1);
+      linksSelection.attr("stroke-opacity", 0.18);
+    };
 
     const showDetails = (node) => {
       selectedId = node.id;
-      selectedLabel.text(node.name).attr("display", labelNodes.some((labelNode) => labelNode.id === node.id) ? "none" : null);
       const related = activeLinks.filter((link) => link.source.id === node.id || link.target.id === node.id);
+      const relatedIds = new Set(related.flatMap((link) => [link.source.id, link.target.id]));
+      const additionalLabels = nodes.filter(
+        (candidate) => candidate.id !== node.id && relatedIds.has(candidate.id) && !alwaysLabeledIds.has(candidate.id)
+      );
+      selectedLabel
+        .text(node.name)
+        .attr("display", alwaysLabeledIds.has(node.id) ? "none" : null)
+        .attr("x", node.x)
+        .attr("y", node.y - radius(node.publication_count) - 9);
+      neighborLabelsSelection = neighborLabelsGroup
+        .selectAll("text")
+        .data(additionalLabels, (candidate) => candidate.id)
+        .join("text")
+        .text((candidate) => candidate.name)
+        .attr("x", (candidate) => candidate.x)
+        .attr("y", (candidate) => candidate.y - radius(candidate.publication_count) - 7);
       const papers = related.flatMap((link) => link.papers).filter((paper, index, all) => all.findIndex((item) => item.key === paper.key) === index);
       details.replaceChildren();
       const heading = document.createElement("strong");
@@ -95,7 +125,10 @@
       linksSelection.attr("stroke-opacity", (link) => (link.source.id === node.id || link.target.id === node.id ? 0.75 : 0.04));
     };
 
-    nodesSelection.on("click", (_, node) => showDetails(node));
+    nodesSelection.on("click", (_, node) => {
+      if (selectedId === node.id) clearSelection();
+      else showDetails(node);
+    });
     simulation = d3
       .forceSimulation(nodes)
       .force(
@@ -120,6 +153,7 @@
           .attr("y2", (link) => link.target.y);
         nodesSelection.attr("cx", (node) => node.x).attr("cy", (node) => node.y);
         labelsSelection.attr("x", (node) => node.x).attr("y", (node) => node.y - radius(node.publication_count) - 7);
+        neighborLabelsSelection.attr("x", (node) => node.x).attr("y", (node) => node.y - radius(node.publication_count) - 7);
         const selectedNode = nodes.find((node) => node.id === selectedId);
         if (selectedNode) {
           selectedLabel.attr("x", selectedNode.x).attr("y", selectedNode.y - radius(selectedNode.publication_count) - 9);
@@ -145,7 +179,7 @@
     );
     const selected = nodes.find((node) => node.id === selectedId);
     if (selected) showDetails(selected);
-    else details.textContent = "Select an author to see shared papers.";
+    else clearSelection();
   };
 
   slider.addEventListener("input", () => {

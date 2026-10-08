@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /coauthors/
-title: co-authorship network
+title: coauthors
 description: an interactive map of collaborations across my publications.
 nav: true
 nav_order: 2.5

@@ -32,7 +32,8 @@
   height: auto;
   width: 100%;
 }
-.coauthor-labels text {
+.coauthor-labels text,
+.coauthor-neighbor-labels text {
   fill: var(--global-text-color);
   font-size: 0.75rem;
   font-weight: 600;

@@ -6,7 +6,7 @@ subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile/prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     Postdoctoral fellow studying brain networks and fMRI - coffee enthusiast - occasional bash & HPC wrangler
@@ -24,6 +24,10 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+> **I'm on the academic job market!**
+>
+> [Read my “hire me!” post.]({{ '/notes/2026/hire-me/' | relative_url }})
 
 Hi there! 👋 I'm a postdoctoral fellow in the [Section on Functional Imaging Methods](https://fim.nimh.nih.gov/) (aka [Dr. Peter Bandettini's group](https://www.nimh.nih.gov/research/research-conducted-at-nimh/principal-investigators/peter-bandettini)) at the [NIMH](https://www.nimh.nih.gov/). I study how functional networks are organized across the brain 🧠 in space 📍 and time ⏱️, with a particular interest in edge-centric approaches to fMRI and computational models of brain organization.
 
