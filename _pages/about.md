@@ -39,6 +39,11 @@ I studied neuroscience and cognitive science (and minored in marketing 🤷) at 
 
 I'm originally from Orange County, CA - a nice locale with a stunning shoreline 🌴, great weather, and a vibrant sporting culture. I'm an admirer of [modern architecture](http://www.getty.edu/visit/center/architecture.html) and [abstract art](http://www.mwmgraphics.com/vectorfunk.html). I enjoy perusing Google Earth 🌍 for unique geological features and man-made wonders. I am fond of Americano [coffee](https://deansbeans.com/), spy novels, 1970s [prog-rock](https://en.wikipedia.org/wiki/Selling_England_by_the_Pound), Jeopardy!, grillin' burgers, and [Tottenham Hotspur](https://www.reddit.com/r/coys/) Football Club. I'm an especially avid disc golf 🥏⛳️ and pickleball player 🥒🎾. I would be remiss not to mention my wonderful family: my wife Elizabeth and our baby daughter, who shares my affection for [Richard Scarry](https://www.richardscarry.com/) illustrations and long afternoon naps.
 
+### Online talks & lectures
+
+- [fMRI connectivity and advanced processing strategies](https://youtu.be/BRPxxah3BBo): my lecture for the 2026 fMRI Summer Course.
+- [Edge analysis in fMRI](https://www.youtube.com/watch?v=mbW4xOVorgY): my lecture for the 2024 fMRI Summer Course.
+
 ### Academic links
 
 - [Curriculum Vitae](/cv/): some info on positions, papers, talks, and teaching.
